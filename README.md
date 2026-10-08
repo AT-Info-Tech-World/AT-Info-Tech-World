@@ -1,16 +1,35 @@
-## Hi there 👋
+# AT-Info-Tech-World
 
-<!--
-**AT-Info-Tech-World/AT-Info-Tech-World** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software, automation, and infrastructure built for real-world communities.
 
-Here are some ideas to get you started:
+We design and maintain practical software systems with a focus on reliability, maintainability, and long-term operation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Build
+
+- Community and Discord infrastructure
+- Tournament and event management systems
+- Backend services and automation
+- API integrations
+- Developer tools and internal utilities
+
+## Featured Projects
+
+### SWAS Tournament Bot
+
+A Discord tournament management platform for scheduling, staff operations, results, and automation.
+
+[View Repository](https://github.com/AT-Info-Tech-World/SWAS-Tournament-Bot)
+
+### ASM Tournament Bot Legal
+
+Official Terms of Service and Privacy Policy documentation for AT-Info-Tech-World software.
+
+[View Repository](https://github.com/AT-Info-Tech-World/ASM-Tournament-Bot-Legal)
+
+## Engineering
+
+`Node.js` · `JavaScript` · `MongoDB` · `Discord API` · `REST APIs`
+
+---
+
+Built and maintained by AT-Info-Tech-World.
